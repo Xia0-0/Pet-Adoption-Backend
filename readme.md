@@ -64,7 +64,7 @@ mongodb://localhost:27017
 
 ## 2️⃣ 创建数据库并导入数据
 
-进入对应集合（如 `pets`）：
+PetA进入对应集合（如 `pets`）：
 
 * 点击 **Add Data**
 * 选择 **Import File**
